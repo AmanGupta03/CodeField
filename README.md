@@ -1,9 +1,9 @@
 ## CodeField
 
-A Single Page Application, developed using Codechef API with three functionalities-:
+A Single Page Application, developed using Codechef API with three main functionalities-:
 
 ### 1.CodeArena
-CodeArena allow user to select any of the previous Codechef round and do vitual pparticipation on it.
+CodeArena allow user to select any of the previous Codechef round and do virtual participation on it.
 It also gives rank to user by comparing his score and penalty with leaderboard.
 
 ### 2. Mashup
